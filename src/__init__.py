@@ -1,4 +1,5 @@
 from .models import (
+    HealthResponse,
     MovieUploadInfo,
     MovieDataResponse,
     MovieProcessingReport,
