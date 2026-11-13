@@ -8,9 +8,9 @@ from src import (
     HealthResponse,
     MovieUploadInfo,
     MovieDataResponse,
-    MovieDataResponse,
     MovieProcessingReport,
     MovieStorage,
+    MovieCache,
     ProcessConfig,
     setup_logging,
 )
